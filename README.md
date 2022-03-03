@@ -1,6 +1,6 @@
 # Python-homework
 
-This is one of the homework we did as part of a college programming course. The text of the problem is:
+This is one of the homework we did as a part of a college programming course. The text of the problem is:
 
 Write a program that performs some processing on two files whose names are entered with
 standard input and containing data on companies and auctions, respectively. The company file row contains information about the company identifier (integer number), its name and the initial advertised price (positive real number, maybe missing as
